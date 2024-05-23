@@ -5,6 +5,8 @@
 - 📫 How to reach me ...@0712678863
 - 😄 Pronouns: ...he/him
 
+- Object Oriented Programmer C'mon Mehn
+
 
 <!---
 maxwellnjogu/maxwellnjogu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
