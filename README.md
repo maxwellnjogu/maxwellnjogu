@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Full Stack Develelopment
 
 - 📫 How to reach me ...@0712678863
-- 😄 Pronouns: ...he/him
+
 
 - Object Oriented Programmer C'mon Mehn
 
