@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxwellnjogu
 - 👀 I’m interested in ...Cyber Security
-- 🌱 I’m currently learning ...Full Stack Develelopment
+- 🌱 I’m currently learning ...Data Science
 
 - 📫 How to reach me ...@0712678863
 
