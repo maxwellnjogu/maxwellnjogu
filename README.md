@@ -9,7 +9,7 @@
 - https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5065068&trackId=OCDMF2023&key=f1fadc1aec20f6857de1742b5c236b035cd275af
 
 
-- Object Oriented Programmer C'mon Mehn
+- Object Oriented Programmer 
 
 - https://www.credly.com/badges/6f660926-c404-407f-820c-9ba8fd3a78f4/public_url
 
