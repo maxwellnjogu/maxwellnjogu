@@ -15,9 +15,9 @@
 
 - Cisco Certified Cyber Security
 
-- -M-pesa Intergration
 
--Kotlin|JavaScript|Python|Django|Html|CSS|Bootstrap|php|xampp.
+
+-Kotlin|JavaScript|Python|Django|Html|CSS|Bootstrap|php|xampp|node|JavaScript.
 <!---
 maxwellnjogu/maxwellnjogu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
