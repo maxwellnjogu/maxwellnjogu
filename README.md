@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @maxwellnjogu
-- 👀 I’m interested in ...Cyber Security
-- 🌱 I’m currently learning ...Data Science
 
-- 📫 How to reach me ...@0712678863
+
+
+
+0712678863
 
 - Oracle Data Base Management System
 
