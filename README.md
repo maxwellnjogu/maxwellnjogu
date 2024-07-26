@@ -13,7 +13,7 @@
 
 - https://www.credly.com/badges/6f660926-c404-407f-820c-9ba8fd3a78f4/public_url
 
-- Cisco Certified Cyber Security
+- Cisco Certified  - Cyber Security Analyst
 
 
 
